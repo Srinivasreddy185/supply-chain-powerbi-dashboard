@@ -1,0 +1,7 @@
+SupplierID,SupplierName,Country,LeadTimeDays,ReliabilityScore,RiskScore,ResilienceScore
+SUP01,Alpha,Germany,5,90,20,85
+SUP02,Beta,China,25,75,60,65
+SUP03,Gamma,USA,15,85,30,80
+SUP04,Delta,Poland,7,88,25,82
+SUP05,Epsilon,India,20,80,50,70
+SUP06,Zeta,Italy,10,83,35,78
