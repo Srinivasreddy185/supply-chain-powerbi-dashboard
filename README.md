@@ -71,22 +71,6 @@ Tools Used
 - Data Modeling
 - CSV datasets
 
----
-
-Project Structure
-supply-chain-powerbi-dashboard
-│
-├── data
-│ ├── Procurement_Data_Large.csv
-│ ├── Suppliers.csv
-│ └── Supplier_Evaluation.csv
-│
-├── dashboard
-│ └── Supply_Chain_Dashboard.pbix
-│
-├── images
-│ └── supply-chain-dashboard.png
-
 
 ---
 
